@@ -19,8 +19,7 @@ Please include the following information about your environment:
 
 ## Steps to reproduce
 
-Please provide step-by-step instructions to reproduce the issue. Include any relevant code
-snippets.
+Please provide step-by-step instructions to reproduce the issue. Include any relevant code snippets.
 
 ## Expected results
 
