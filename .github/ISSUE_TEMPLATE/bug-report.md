@@ -9,7 +9,7 @@ labels: "bug"
 
 A clear and concise description of what the bug is.
 
-## Pingora info
+## Telescope info
 
 Please include the following information about your environment:
 
